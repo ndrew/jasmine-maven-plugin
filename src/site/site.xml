@@ -11,7 +11,7 @@
       <leftColumnClass>span3</leftColumnClass>
       <bodyColumnClass>span9</bodyColumnClass>
       <gitHub>
-        <projectId>searls/jasmine-maven-plugin</projectId>
+        <projectId>ndrew/jasmine-maven-plugin</projectId>
         <ribbonOrientation>right</ribbonOrientation>
         <ribbonColor>black</ribbonColor>
       </gitHub>

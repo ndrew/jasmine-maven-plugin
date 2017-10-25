@@ -1,3 +1,8 @@
+fork of jasmine-maven-plugin
+============================
+
+WIP, use at your own risk.
+
 jasmine-maven-plugin
 ====================
 

@@ -1,11 +1,6 @@
 language: java
 sudo: false
-addons:
-  sonarqube:
-    organization: "ndrew-github"
-    token:
-      secure: "e51f1b81a7ae4f675afa16b2cc01c137dbcfb901"
 jdk:
   - oraclejdk8
 script:
-  - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar
+  - mvn verify
